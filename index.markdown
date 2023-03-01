@@ -1,0 +1,55 @@
+---
+layout: home
+---
+
+<div style="width: 250px; height: 298px;">
+<img src="/assets/images/dct-on-wrist.jpeg" alt="dct-on-wrist" style="width: inherit" />
+</div>
+<p/>
+
+_A minimalist family of trackers, for health and fitness, for the Apple Watch, iPhone, and iPad_
+
+## Gym Routine Tracker
+
+_A minimalist gym workout tracker, for the Apple Watch, iPhone, and iPad_
+
+- [Gym Routine Tracker](https://Gym-Routine-Tracker.github.io) - product page for GRT and GRT+
+
+Available as FREE downloads in the App Store:
+
+- [GRT for Apple Watch](https://apps.apple.com/us/app/gym-routine-tracker/id6444747204)
+- [GRT+ for iPhone/iPad](https://apps.apple.com/us/app/gym-routine-tracker/id1662243916)
+
+## Daily Calorie Tracker
+
+_A minimalist calorie tracker, for the Apple Watch, iPhone, and iPad_
+
+- [Daily Calorie Tracker](/dct/) - product page for DCT and DCT+
+
+Available as FREE downloads in the App Store:
+
+- [DCT for Apple Watch](https://apps.apple.com/us/app/daily-calorie-tracker/id)
+- [DCT+ for iPhone/iPad](https://apps.apple.com/us/app/daily-calorie-tracker/id)
+
+## See Also
+
+* [Terms](/terms/) - Daily Calorie Tracker Terms & Conditions
+* [Privacy](/privacy/) - Daily Calorie Tracker Privacy Policy
+
+macOS apps by the same author:
+
+* [FlowAllocator](https://openalloc.github.io/FlowAllocator/index.html) - portfolio rebalancing tool for macOS
+* [FlowWorth](https://openalloc.github.io/FlowWorth/index.html) - portfolio valuation and tracking tool for macOS
+
+A few of the Vim plugins by the same author:
+
+* [vim-pencil](https://github.com/preservim/vim-pencil) - Rethinking Vim as a tool for writing
+* [vim-wordy](https://github.com/preservim/vim-wordy) - Uncover usage problems in your writing
+* [vim-wheel](https://github.com/preservim/vim-wheel) - Screen-anchored cursor movement for Vim
+
+## License
+
+Copyright 2023 OpenAlloc LLC
+
+All application code is licensed under the [Mozilla Public License 2](https://www.mozilla.org/en-US/MPL/2.0/), except where noted in individual modules.
+
