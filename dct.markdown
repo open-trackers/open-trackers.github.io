@@ -1,5 +1,7 @@
 ---
-layout: home
+layout: page
+title: Daily Calorie Tracker
+permalink: /dct/
 ---
 
 <div style="width: 250px; height: 298px;">
