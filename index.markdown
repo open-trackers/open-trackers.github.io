@@ -2,17 +2,11 @@
 layout: home
 ---
 
-<div style="width: 500px; height: 298px;">
-<img src="/assets/images/grt-on-wrist.jpeg" alt="dct-on-wrist" style="width: 250px" />
-<img src="/assets/images/dct-on-wrist.jpeg" alt="dct-on-wrist" style="width: 250px" />
-</div>
-<p/>
-
 _A minimalist family of trackers, for health and fitness, for the Apple Watch, iPhone, and iPad_
 
 ## Gym Routine Tracker
 
-<div style="width: 250px; height: 298px;"> <img src="/assets/images/grt-on-wrist.jpeg" alt="dct-on-wrist" style="width: inherit" /> </div> <p/>
+<div style="width: 250px; height: 298px;"> <img src="/assets/images/grt-on-wrist.jpeg" style="width: inherit" /> </div> <p/>
 
 _A minimalist gym workout tracker, for the Apple Watch, iPhone, and iPad_
 
@@ -25,7 +19,7 @@ Available as FREE downloads in the App Store:
 
 ## Daily Calorie Tracker
 
-<div style="width: 250px; height: 298px;"> <img src="/assets/images/dct-on-wrist.jpeg" alt="dct-on-wrist" style="width: inherit" /> </div> <p/>
+<div style="width: 250px; height: 298px;"> <img src="/assets/images/dct-on-wrist.jpeg" style="width: inherit" /> </div> <p/>
 
 _A minimalist calorie tracker, for the Apple Watch, iPhone, and iPad_
 
