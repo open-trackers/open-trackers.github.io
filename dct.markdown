@@ -15,15 +15,15 @@ _A minimalist calorie tracker, for the Apple Watch, iPhone, and iPad_
 
 Available as FREE downloads in the App Store:
 
-- [DCT for Apple Watch](https://apps.apple.com/us/app/daily-calorie-tracker/id)
-- [DCT+ for iPhone/iPad](https://apps.apple.com/us/app/daily-calorie-tracker/id)
+- [DCT for Apple Watch](https://apps.apple.com/us/app/daily-calorie-tracker/id6445856852)
+- [DCT+ for iPhone/iPad](https://apps.apple.com/us/app/daily-calorie-tracker/id6445856794)
 
 ## Features
 
 - Simple model of user-defined categories and servings.
 - ‘Quick Log’ option to add a raw calorie amount to a category.
 - Define your own servings, with handy presets.
-- Convenient option to adjust serving size (aka intensity) when logging calories.
+- Conveniently adjust serving size (aka intensity) when logging calories.
 - Your data syncs with your private iCloud account when a network connection is available.
 - Fully open source, where code is licensed with Mozilla Public License 2.0.
 

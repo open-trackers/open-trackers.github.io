@@ -2,8 +2,9 @@
 layout: home
 ---
 
-<div style="width: 250px; height: 298px;">
-<img src="/assets/images/dct-on-wrist.jpeg" alt="dct-on-wrist" style="width: inherit" />
+<div style="width: 500px; height: 298px;">
+<img src="/assets/images/grt-on-wrist.jpeg" alt="dct-on-wrist" style="width: 250px" />
+<img src="/assets/images/dct-on-wrist.jpeg" alt="dct-on-wrist" style="width: 250px" />
 </div>
 <p/>
 
@@ -28,8 +29,8 @@ _A minimalist calorie tracker, for the Apple Watch, iPhone, and iPad_
 
 Available as FREE downloads in the App Store:
 
-- [DCT for Apple Watch](https://apps.apple.com/us/app/daily-calorie-tracker/id)
-- [DCT+ for iPhone/iPad](https://apps.apple.com/us/app/daily-calorie-tracker/id)
+- [DCT for Apple Watch](https://apps.apple.com/us/app/daily-calorie-tracker/id6445856852)
+- [DCT+ for iPhone/iPad](https://apps.apple.com/us/app/daily-calorie-tracker/id6445856794)
 
 ## See Also
 
