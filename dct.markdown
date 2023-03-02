@@ -4,10 +4,7 @@ title: Daily Calorie Tracker
 permalink: /dct/
 ---
 
-<div style="width: 250px; height: 298px;">
-<img src="/assets/images/dct-on-wrist.jpeg" alt="dct-on-wrist" style="width: inherit" />
-</div>
-<p/>
+<div style="width: 250px; height: 298px;"> <img src="/assets/images/dct-on-wrist.jpeg" alt="dct-on-wrist" style="width: inherit" /> </div> <p/>
 
 _A minimalist calorie tracker, for the Apple Watch, iPhone, and iPad_
 

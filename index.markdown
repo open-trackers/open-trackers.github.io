@@ -12,6 +12,8 @@ _A minimalist family of trackers, for health and fitness, for the Apple Watch, i
 
 ## Gym Routine Tracker
 
+<div style="width: 250px; height: 298px;"> <img src="/assets/images/grt-on-wrist.jpeg" alt="dct-on-wrist" style="width: inherit" /> </div> <p/>
+
 _A minimalist gym workout tracker, for the Apple Watch, iPhone, and iPad_
 
 - [Gym Routine Tracker](https://Gym-Routine-Tracker.github.io) - product page for GRT and GRT+
@@ -22,6 +24,8 @@ Available as FREE downloads in the App Store:
 - [GRT+ for iPhone/iPad](https://apps.apple.com/us/app/gym-routine-tracker/id1662243916)
 
 ## Daily Calorie Tracker
+
+<div style="width: 250px; height: 298px;"> <img src="/assets/images/dct-on-wrist.jpeg" alt="dct-on-wrist" style="width: inherit" /> </div> <p/>
 
 _A minimalist calorie tracker, for the Apple Watch, iPhone, and iPad_
 
