@@ -74,7 +74,7 @@ For iOS version, version 16.1 or later
 
 The Gym Routine Tracker app is relatively simple in layout and usage, but there are subtle features that may not be obvious.
 
-The [Tutorial](/tutorial/) steps through the layout and features of app.
+The [Tutorial](/grt/tutorial/) steps through the layout and features of app.
 
 ## Source code
 
@@ -97,7 +97,7 @@ To any Apple product managers who like this app, please consider Sherlocking it!
 watchOS/iOS/iPadOS apps by the same author
 
 * [Daily Calorie Tracker](/dct/) (watchOS) - independent watch app for the daily tracking of calories
-* [Daily Calorie Tracker+](/grt/) (iOS/iPadOS) - for the daily tracking of calories
+* [Daily Calorie Tracker+](/dct/) (iOS/iPadOS) - for the daily tracking of calories
 
 macOS apps by the same author:
 
