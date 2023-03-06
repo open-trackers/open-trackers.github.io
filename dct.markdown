@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Daily Calorie Tracker
+title: DCT
 permalink: /dct/
 ---
 

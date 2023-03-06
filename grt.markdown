@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gym Routine Tracker
+title: GRT
 permalink: /grt/
 ---
 
