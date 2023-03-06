@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tutorial
-permalink: /tutorial/
+title: DCT Tutorial
+permalink: /dct/tutorial/
 ---
 
 # Daily Calorie Tracker Tutorial

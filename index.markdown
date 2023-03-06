@@ -10,7 +10,7 @@ _A minimalist family of trackers, for health and fitness, for the Apple Watch, i
 
 _A minimalist gym workout tracker, for the Apple Watch, iPhone, and iPad_
 
-- [Gym Routine Tracker](https://Gym-Routine-Tracker.github.io) - product page for GRT and GRT+
+- [Gym Routine Tracker](/grt/) - product page for GRT and GRT+
 
 Available as FREE downloads in the App Store:
 

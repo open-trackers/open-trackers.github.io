@@ -4,7 +4,10 @@ title: Daily Calorie Tracker
 permalink: /dct/
 ---
 
-<div style="width: 250px; height: 298px;"> <img src="/assets/images/dct-on-wrist.jpeg" style="width: inherit" /> </div> <p/>
+<div style="width: 250px; height: 298px;"> 
+<img src="/assets/images/dct-on-wrist.jpeg" style="width: inherit" /> 
+</div> 
+<p/>
 
 _A minimalist calorie tracker, for the Apple Watch, iPhone, and iPad_
 
@@ -71,7 +74,7 @@ The [Tutorial](/dct/tutorial/) steps through the layout and features of app.
 * [DCT for Apple Watch Source](https://github.com/open-trackers/Daily-Calorie-Tracker-Watch-App) - watchOS implementation, for Apple Watch
 * [DCT+ for iPhone/iPad Source](https://github.com/open-trackers/Daily-Calorie-Tracker-Plus-App) - iOS implementation, for iPhone and iPad
 * [DcaltUI](https://github.com/open-trackers/DcaltUI/) - shared layer for user interface
-* [DcaltLib](https://github.com/open-trackers/DcaltLib/) - shared layer for business logic and data layer
+* [DcaltLib](https://github.com/open-trackers/DcaltLib/) - shared layer for business logic and data
 * [TrackerUI](https://github.com/open-trackers/TrackerUI/) - base shared layer (with GRT) for user interface
 * [TrackerLib](https://github.com/open-trackers/TrackerLib/) - base shared layer (with GRT) for business logic and data layer
 
@@ -85,8 +88,8 @@ To any Apple product managers who like this app, please consider Sherlocking it!
 
 watchOS/iOS/iPadOS apps by the same author
 
-* [Gym Routine Tracker](https://gym-routine-tracker.github.io) (watchOS) - independent watch app for tracking gym routines and their exercises 
-* [Gym Routine Tracker+](https://gym-routine-tracker.github.io) (iOS/iPadOS) - for tracking gym routines and their exercises 
+* [Gym Routine Tracker](/grt/) (watchOS) - independent watch app for tracking gym routines and their exercises 
+* [Gym Routine Tracker+](/grt/) (iOS/iPadOS) - for tracking gym routines and their exercises 
 
 macOS apps by the same author:
 
