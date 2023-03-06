@@ -82,15 +82,6 @@ To any Apple product managers who like this app, please consider Sherlocking it!
 
 ## See Also
 
-* [Open Trackers](/) - All apps in the Open Trackers family
-* [Terms](/terms/) - Daily Calorie Tracker Terms & Conditions
-* [Privacy](/privacy/) - Daily Calorie Tracker Privacy Policy
-
-watchOS/iOS/iPadOS apps by the same author
-
-* [Gym Routine Tracker](/grt/) (watchOS) - independent watch app for tracking gym routines and their exercises 
-* [Gym Routine Tracker+](/grt/) (iOS/iPadOS) - for tracking gym routines and their exercises 
-
 macOS apps by the same author:
 
 * [FlowAllocator](https://openalloc.github.io/FlowAllocator/index.html) - portfolio rebalancing tool for macOS

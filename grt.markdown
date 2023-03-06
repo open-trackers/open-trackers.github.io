@@ -79,8 +79,8 @@ The [Tutorial](/grt/tutorial/) steps through the layout and features of app.
 ## Source code
 
 * [GRT Website](https://open-trackers.github.io) - Website for GRT
-* [GRT for Apple Watch Source](https://github.com/open-trackers/open-trackers-Watch-App) - watchOS implementation
-* [GRT+ for iPhone/iPad Source](https://github.com/open-trackers/open-trackers-Plus-App) - iOS implementation, for iPhone and iPad
+* [GRT for Apple Watch Source](https://github.com/open-trackers/Gym-Routine-Tracker-Watch-App) - watchOS implementation
+* [GRT+ for iPhone/iPad Source](https://github.com/open-trackers/Gym-Routine-Tracker-Plus-App) - iOS implementation, for iPhone and iPad
 * [GroutUI](https://github.com/open-trackers/GroutUI/) - shared layer for user interface
 * [GroutLib](https://github.com/open-trackers/GroutLib/) - shared layer for business logic and data
 * [TrackerUI](https://github.com/open-trackers/TrackerUI/) - base shared layer (with DCT) for user interface
@@ -89,15 +89,6 @@ The [Tutorial](/grt/tutorial/) steps through the layout and features of app.
 To any Apple product managers who like this app, please consider Sherlocking it!
 
 ## See Also
-
-* [Open Trackers](/) - All apps in the Open Trackers family
-* [Terms](/terms/) - Gym Routine Tracker Terms & Conditions
-* [Privacy](/privacy/) - Gym Routine Tracker Privacy Policy
-
-watchOS/iOS/iPadOS apps by the same author
-
-* [Daily Calorie Tracker](/dct/) (watchOS) - independent watch app for the daily tracking of calories
-* [Daily Calorie Tracker+](/dct/) (iOS/iPadOS) - for the daily tracking of calories
 
 macOS apps by the same author:
 
