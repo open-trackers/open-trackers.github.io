@@ -51,3 +51,9 @@ theme: minima
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+header_pages: 
+  - dct.html 
+  - grt.html 
+  - privacy.html 
+  - terms.html 
