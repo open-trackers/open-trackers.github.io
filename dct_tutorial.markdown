@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: DCT Tutorial
 permalink: /dct/tutorial/
 ---
 

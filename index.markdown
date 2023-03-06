@@ -32,8 +32,9 @@ Available as FREE downloads in the App Store:
 
 ## See Also
 
-* [Terms](/terms/) - Daily Calorie Tracker Terms & Conditions
-* [Privacy](/privacy/) - Daily Calorie Tracker Privacy Policy
+* [Terms](/terms/) - Terms & Conditions
+* [Privacy](/privacy/) - Privacy Policy
+* [Support](/support/) - Support Details
 
 macOS apps by the same author:
 

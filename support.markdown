@@ -10,7 +10,10 @@ If you have any questions, contact via email at gym\_routine\_tracker /at/ outlo
 
 Issues can be reported (publicly) at: 
 
-* DCT Watch app: [github project site](https://github.com/open-trackers/Daily-Calorie-Tracker-Watch-App)
-* DCT+ iPhone/iPad app: [github project site](https://github.com/open-trackers/Daily-Calorie-Tracker-Plus-App)
+* DCT Watch app: [Github project site](https://github.com/open-trackers/Daily-Calorie-Tracker-Watch-App)
+* DCT+ iPhone/iPad app: [Github project site](https://github.com/open-trackers/Daily-Calorie-Tracker-Plus-App)
+
+* GRT Watch app: [Github project site](https://github.com/open-trackers/Gym-Routine-Tracker-Watch-App)
+* GRT+ iPhone/iPad app: [Github project site](https://github.com/open-trackers/Gym-Routine-Tracker-Plus-App)
 
 
