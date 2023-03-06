@@ -52,8 +52,9 @@ theme: minima
 #   - vendor/gems/
 #   - vendor/ruby/
 
-header_pages: 
-  - dct.html 
-  - grt.html 
-  - privacy.html 
-  - terms.html 
+header_pages:
+  - dct.markdown
+  - grt.markdown
+  - privacy.markdown
+  - support.markdown
+  - terms.markdown
