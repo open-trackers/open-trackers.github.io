@@ -36,12 +36,12 @@ Available as FREE downloads in the App Store:
 * [Privacy](/privacy/) - Privacy Policy
 * [Support](/support/) - Support Details
 
-macOS apps by the same author:
+### macOS apps by the same author:
 
 * [FlowAllocator](https://openalloc.github.io/FlowAllocator/index.html) - portfolio rebalancing tool for macOS
 * [FlowWorth](https://openalloc.github.io/FlowWorth/index.html) - portfolio valuation and tracking tool for macOS
 
-A few of the Vim plugins by the same author:
+### A few of the Vim plugins by the same author:
 
 * [vim-pencil](https://github.com/preservim/vim-pencil) - Rethinking Vim as a tool for writing
 * [vim-wordy](https://github.com/preservim/vim-wordy) - Uncover usage problems in your writing
@@ -52,4 +52,3 @@ A few of the Vim plugins by the same author:
 Copyright 2023 OpenAlloc LLC
 
 All application code is licensed under the [Mozilla Public License 2](https://www.mozilla.org/en-US/MPL/2.0/), except where noted in individual modules.
-

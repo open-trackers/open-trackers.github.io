@@ -4,7 +4,7 @@ title: Terms
 permalink: /terms/
 ---
 
-# _Gym Routine Tracker_ and _Daily Calorie Tracker_ Terms and Conditions
+## _Gym Routine Tracker_ and _Daily Calorie Tracker_ Terms and Conditions
 
 ‘The software’ means the _Gym Routine Tracker_ and _Daily Calorie Tracker_ applications.
 
@@ -15,8 +15,6 @@ The software does not provide specific fitness or dietary advice. Its developers
 The software and its source code have been released under the terms of the Mozilla Public License 2.0, as included below.
 
 These terms and conditions are subject to change and will be included in future releases of the software.
-
-Failure to agree to these terms and conditions may result in restricted functionality.
 
 ```
 Mozilla Public License Version 2.0

@@ -6,6 +6,8 @@ permalink: /dct/tutorial/
 
 # Daily Calorie Tracker Tutorial
 
+** UNDER CONSTRUCTION **
+
 The starting point is a list of your food categories. 
 
 If you opted into the ‘standard’ categories, this is populated for you.

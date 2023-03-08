@@ -4,7 +4,7 @@ title: Support
 permalink: /support/
 ---
 
-# Support for _Gym Routine Tracker_ and _Daily Calorie Tracker_
+## Support for _Gym Routine Tracker_ and _Daily Calorie Tracker_
 
 If you have any questions, contact via email at gym\_routine\_tracker /at/ outlook.com
 
