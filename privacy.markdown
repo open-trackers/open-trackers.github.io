@@ -4,7 +4,7 @@ title: Privacy
 permalink: /privacy/
 ---
 
-## Privacy Policy for _Gym Routine Tracker_ and _Daily Calorie Tracker_
+## Privacy Policy for _Gym Routine Tracker_, _Daily Calorie Tracker_, and _Task Routine Tracker_
 
 The current version of this document can be found at [https://open-trackers.github.io/privacy/](https://open-trackers.github.io/privacy/).
 
@@ -12,13 +12,13 @@ At OpenAlloc LLC, we respect your privacy. We believe that the less we know abou
 
 This policy applies to all information collected or submitted to OpenAlloc LLC’s website and our apps for macOS, WatchOS, and any other devices and platforms.
 
-For purposes of this Privacy Policy, the terms “OpenAlloc LLC”, “we,” “us” and “our” refer to the company OpenAlloc LLC; the terms “application“, “app”, “service”, and “product” refer to the _Gym Routine Tracker_ and _Daily Calorie Tracker_ software, website, and any related services; and “you” refers to you, as a user of the application as applicable.
+For purposes of this Privacy Policy, the terms “OpenAlloc LLC”, “we,” “us” and “our” refer to the company OpenAlloc LLC; the terms “application“, “app”, “service”, and “product” refer to the _Gym Routine Tracker_, _Daily Calorie Tracker_, and _Task Routine Tracker_ software, website, and any related services; and “you” refers to you, as a user of the application as applicable.
 
 We reserve the right to change this policy at any time (and without prior notification), which we will do through online posting. 
 
 ### Information we collect
 
-For both _Gym Routine Tracker_ and _Daily Calorie Tracker_, your data is stored locally on your device and, when accessible, is synced with your private iCloud account hosted by Apple.
+For _Gym Routine Tracker_, _Daily Calorie Tracker_, and _Task Routine Tracker_, your data is stored locally on your device and, when accessible, is synced with your private iCloud account hosted by Apple.
 
 We may collect a limited amount of information that is necessary to improve the app, and to provide support. To help identify and solve specific problems with our products and services, we occasionally solicit diagnostic reports and other troubleshooting, bug, and crash reports from customers. 
 
@@ -69,3 +69,4 @@ If you have questions regarding this privacy policy, you may contact us via the 
 We will post changes to our Privacy Policy on this page. Summary of changes so far:
 
 * February 25, 2023: Adapted Gym Routine Tracker’s privacy policy for Daily Calorie Tracker.
+* April 1, 2023: Adapted for Task Routine Tracker

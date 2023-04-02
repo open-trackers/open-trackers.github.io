@@ -4,9 +4,9 @@ title: Terms
 permalink: /terms/
 ---
 
-## _Gym Routine Tracker_ and _Daily Calorie Tracker_ Terms and Conditions
+## _Gym Routine Tracker_, _Daily Calorie Tracker_, and _Task Routine Tracker_ Terms and Conditions
 
-‘The software’ means the _Gym Routine Tracker_ and _Daily Calorie Tracker_ applications.
+‘The software’ means the _Gym Routine Tracker_, _Daily Calorie Tracker_, and _Task Routine Tracker_ applications.
 
 By downloading and using the software, the terms and conditions will automatically apply to you. Review carefully before using.
 

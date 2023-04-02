@@ -88,7 +88,7 @@ The [Tutorial](/dct/tutorial/) steps through the layout and features of app.
 * [Privacy](/privacy/) - Privacy Policy
 * [Support](/support/) - Support Details
 
-* [_Open Trackers_ Website](https://open-trackers.github.io) - website for _Gym Routine Tracker_ and _Daily Calorie Tracker_ apps
+* [_Open Trackers_ Website](https://open-trackers.github.io) - website for _Daily Calorie Tracker_ and other tracker apps
 * [_Open Trackers_ Project](https://github.com/open-trackers) - Github site for the development project, including full source code
 
 ## License

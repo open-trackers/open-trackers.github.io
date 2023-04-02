@@ -55,6 +55,7 @@ theme: minima
 header_pages:
   - dct.markdown
   - grt.markdown
+  - trt.markdown
   - privacy.markdown
   - support.markdown
   - terms.markdown
