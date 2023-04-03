@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Task Routine Tracker
-permalink: /grt/
+permalink: /trt/
 ---
 
 <div style="width: 250px; height: 298px;">
-<img src="/assets/images/grt-on-wrist.jpeg" alt="grt-on-wrist" style="width: inherit" />
+<img src="/assets/images/trt-on-wrist.jpeg" alt="trt-on-wrist" style="width: inherit" />
 </div>
 <p/>
 
@@ -72,7 +72,7 @@ For iOS version, version 16.1 or later
 
 The Task Routine Tracker app is relatively simple in layout and usage, but there are subtle features that may not be obvious.
 
-The [Tutorial](/grt/tutorial/) steps through the layout and features of app.
+The [Tutorial](/trt/tutorial/) steps through the layout and features of app.
 
 ## Source code
 
