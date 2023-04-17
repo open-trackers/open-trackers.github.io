@@ -9,14 +9,14 @@ permalink: /trt/
 </div>
 <p/>
 
-_A minimalist and focused task tracker, for the Apple Watch, iPhone, and iPad_
+_A minimalist and focused task runner, for the Apple Watch, iPhone, and iPad_
 
 ## Download
 
 Available as FREE downloads in the App Store:
 
-- [TRT for Apple Watch](https://apps.apple.com/us/app/task-routine-tracker/id)
-- [TRT+ for iPhone/iPad](https://apps.apple.com/us/app/task-routine-tracker/id)
+- [TRT for Apple Watch](https://apps.apple.com/us/app/task-routine-tracker/id6447024549) (is available!)
+- [TRT+ for iPhone/iPad](https://apps.apple.com/us/app/task-routine-tracker/id)  (NOT available in App Store just yet!)
 
 ## Main Features
 

@@ -34,14 +34,14 @@ Available as FREE downloads in the App Store:
 
 <div style="width: 250px; height: 298px;"> <img src="/assets/images/trt-on-wrist.jpeg" style="width: inherit" /> </div> <p/>
 
-_A minimalist and focused task tracker, for the Apple Watch, iPhone, and iPad_
+_A minimalist and focused task runner, for the Apple Watch, iPhone, and iPad_
 
 - [Task Routine Tracker](/trt/) - product page for TRT and TRT+
 
 Available as FREE downloads in the App Store:
 
-- [TRT for Apple Watch](https://apps.apple.com/us/app/task-routine-tracker/id)
-- [TRT+ for iPhone/iPad](https://apps.apple.com/us/app/task-routine-tracker/id)
+- [TRT for Apple Watch](https://apps.apple.com/us/app/task-routine-tracker/id6447024549) (is available!)
+- [TRT+ for iPhone/iPad](https://apps.apple.com/us/app/task-routine-tracker/id)  (NOT available in App Store just yet!)
 
 ## See Also
 
