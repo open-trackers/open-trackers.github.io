@@ -15,8 +15,8 @@ _A minimalist and focused task runner, for the Apple Watch, iPhone, and iPad_
 
 Available as FREE downloads in the App Store:
 
-- [TRT for Apple Watch](https://apps.apple.com/us/app/task-routine-tracker/id6447024549) (is available!)
-- [TRT+ for iPhone/iPad](https://apps.apple.com/us/app/task-routine-tracker/id)  (NOT available in App Store just yet!)
+- [TRT for Apple Watch](https://apps.apple.com/us/app/task-routine-tracker/id6447024549)
+- [TRT+ for iPhone/iPad](https://apps.apple.com/us/app/task-routine-tracker/id6447024581)
 
 ## Main Features
 
