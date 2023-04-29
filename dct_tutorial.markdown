@@ -108,7 +108,7 @@ On the watch, you can review the history for the current day via the
 
 ![today](/assets/images/dct/today.jpg)
 
-On the iPhone/iPad, you can review the full history from the “History”
+On the iPhone/iPad, you can review the full history from the “Recent”
 tab.
 
 You can swipe left to remove entries. The totals should adjust
