@@ -11,6 +11,8 @@ permalink: /grt/
 
 _A minimalist gym workout tracker, for the Apple Watch, iPhone, and iPad_
 
+As an open source project, we depend on our community of users. Please rate and review GRT (and GRT+) in the App Store!
+
 ## Download
 
 Available as FREE downloads in the App Store:

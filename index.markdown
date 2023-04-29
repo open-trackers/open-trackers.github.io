@@ -4,6 +4,8 @@ layout: home
 
 _A minimalist family of trackers, for health, fitness and productivity, for the Apple Watch, iPhone, and iPad_
 
+As an open source project, we depend on our community of users. Please rate and review the apps in the App Store!
+
 ## Gym Routine Tracker
 
 <div style="width: 250px; height: 298px;"> <img src="/assets/images/grt-on-wrist.jpeg" style="width: inherit" /> </div> <p/>

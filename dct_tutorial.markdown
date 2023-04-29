@@ -6,97 +6,107 @@ permalink: /dct/tutorial/
 
 # Daily Calorie Tracker Tutorial
 
-** UNDER CONSTRUCTION **
+The starting point is a list of your food categories, or an empty list if
+you have not created one yet.
 
-The starting point is a list of your food categories. 
+(In Settings you have the option of populating ‘standard’ categories.)
 
-If you opted into the ‘standard’ categories, this is populated for you.
-(See Settings to populate if you initially didn’t opt in.)
-
-You can add a new Category by hitting the `[Add Category]` button, which
+You can add a new Category by hitting the `[+ Add Category]` button, which
 creates a new Category and brings you to the Category Detail screen.
 
-![Main Screen](/assets/images/category-list.jpg)
+![Main Screen](/assets/images/dct/main.jpg)
+
+Scrolling down a bit reveals the menu.
+
+![Main Screen](/assets/images/dct/main_menu.jpg)
 
 ## Category Detail
 
 This screen is for adding a new Category, or editing an existing one.
 
-On the watch, there are three (3) tabs. Swipe left/right to access the
-tabs.
+There are several tabs. Swipe left/right to access the tabs, or use the
+navigation bar at the bottom. You can also tap the center of the
+bar to jump to the first or last pages.
 
-![Category Detail 1](/assets/images/category-detail-1.jpg)
-![Category Detail 2](/assets/images/category-detail-2.jpg)
-![Category Detail 3](/assets/images/category-detail-3.jpg)
-
-You can select an image and color for the Category.
-
-You can define the Servings for the Category. More on that below.
+![Category Name](/assets/images/dct/category_name.jpg)
+![Category Color and Icon](/assets/images/dct/category_color_icon.jpg)
+![Category Food Groups](/assets/images/dct/category_foodgroups.jpg)
+![Category Servings](/assets/images/dct/category_servings.jpg)
 
 In ‘Food Groups’ you can limit which food group presets will be displayed
 for the Category.
 
-## ‘Quick’ Logging Calories for a Category
-
-You can log a simple calorie amount for a Category. For example, 325
-calories for an ‘Entree’ Category.
-
-Tap the Category from the main screen.
-
-For the watch, drag down from the top to reveal the ‘Quick Log’ toolbar
-button.
-
-For the iPhone, tap the bolt icon in the toolbar.
-
-Enter the amount. Recent amounts for the Category should be displayed
-below. Tap ‘Consume’ to log the calories.
-
 ## Serving Detail
 
-You define Servings for things you eat regularly.
+You define Servings for foods you eat regularly.
 
-This screen is for adding a new Serving, or editing an existing one.
+This screen is for adding a new Serving for a Category, or editing an
+existing one.
 
-On the watch there are two (2) tabs. Swipe left/right to access the tabs.
+There are several tabs. Swipe left/right to access the tabs, or use the
+navigation bar at the bottom. You can also tap the center of the
+bar to jump to the first or last pages.
 
-![Serving Detail 1](/assets/images/serving-detail-1.jpg)
-![Serving Detail 2](/assets/images/serving-detail-2.jpg)
+![Serving Name](/assets/images/dct/serving_name.jpg)
+![Serving Category](/assets/images/dct/serving_category.jpg)
+![Serving Calories](/assets/images/dct/serving_calories.jpg)
+![Serving Volume](/assets/images/dct/serving_volume.jpg)
+![Serving Weight](/assets/images/dct/serving_weight.jpg)
+
+Both volume and weight are optional for a serving. Set either or both to
+0 where they aren’t needed.
 
 ## Logging Calories for a Serving
 
 Once you have defined a Serving for a Category, it’s ready to log.
 
 From the main screen, tap on a Category to run it (outside of the `...`
-button, which will bring you to the Category Detail screen).
+button). You will be presented with a list of Servings for the Category.
 
-### Logging As-is
+Add new servings if needed.
 
-To log the Serving as-is, you can long press.
+![Category Run Servings](/assets/images/dct/category_run_servings.jpg)
 
-### Fine-tuning
+Where you don’t have a serving defined, you can tap on the title to reveal
+the ‘Quick Log’ toolbar button, where you can enter a specific calorie
+amount for the Category.
 
-To fine-tune, tap the Serving row, and adjust the size of the serving if
-necessary. For example, 50% is half the size of the Serving.
+(For the iPhone, tap the bolt icon in the toolbar.)
 
-If you provided a weight and/or volume for the Serving, they will adjust
-with the size.
+You can long-press on a Serving in the list for immediate consumption of
+the last serving size.
+
+For fine-tuning, you can normal tap on a serving to display a screen
+allowing you to adjust the size of the serving.
+
+![Serving Run](/assets/images/dct/serving_run.jpg)
 
 Handy buttons exist to quickly size the Serving: halve (50), double (2),
 or reset (1) to the original size.
 
-You can also edit the Serving, if needed.
-
 Tap ‘Consume’ to log the calories.
 
-![Run Serving](/assets/images/serving-run-intensity.jpg)
+## Title Calorie Count
 
-That’s most of it. There’s a top-level Settings screen too, but that’s
-pretty self-explanatory.
+On the main screen (with the list of categories) you can see the current
+count of calories for the day. You can tap this to edit the format for the
+title.
+
+![Title Format](/assets/images/dct/title_format.jpg)
+
+## Settings
+
+In Settings you can specify the starting time of day as well as your
+target calorie count.
+
+![Settings](/assets/images/dct/settings.jpg)
 
 ## History
 
 On the watch, you can review the history for the current day via the
 “Today” button from the main screen.
+
+![today](/assets/images/dct/today.jpg)
 
 On the iPhone/iPad, you can review the full history from the “History”
 tab.

@@ -11,6 +11,8 @@ permalink: /trt/
 
 _A minimalist and focused task runner, for the Apple Watch, iPhone, and iPad_
 
+As an open source project, we depend on our community of users. Please rate and review TRT (and TRT+) in the App Store!
+
 ## Download
 
 Available as FREE downloads in the App Store:
