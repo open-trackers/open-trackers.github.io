@@ -69,8 +69,6 @@ For iOS version, version 16.1 or later
 
 ## Tutorial
 
-** CURRENT UNDER CONSTRUCTION **
-
 The _Daily Calorie Tracker_ app is relatively simple in layout and usage, but there are subtle features that may not be obvious.
 
 The [Tutorial](/dct/tutorial/) steps through the layout and features of app.
