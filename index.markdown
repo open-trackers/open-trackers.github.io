@@ -53,8 +53,8 @@ Available as FREE downloads in the App Store:
 
 ### macOS apps by the same author:
 
-* [FlowAllocator](https://openalloc.github.io/FlowAllocator/index.html) - portfolio rebalancing tool for macOS
-* [FlowWorth](https://openalloc.github.io/FlowWorth/index.html) - portfolio valuation and tracking tool for macOS
+* [FlowAllocator](https://open-portfolio.github.io/allocator/) - portfolio rebalancing tool for macOS
+* [FlowWorth](https://open-portfolio.github.io/worth/) - portfolio valuation and tracking tool for macOS
 
 ### A few of the Vim plugins by the same author:
 
