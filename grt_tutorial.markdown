@@ -1,6 +1,5 @@
 ---
 layout: page
-title: GRT Tutorial
 permalink: /grt/tutorial/
 ---
 

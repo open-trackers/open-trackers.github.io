@@ -1,6 +1,5 @@
 ---
 layout: page
-title: TRT Tutorial
 permalink: /trt/tutorial/
 ---
 
